@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "892330736223",
+    "project_id": "starnet-e5d36",
+    "storage_bucket": "starnet-e5d36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892330736223:android:2c8f5d011db45aff2239ea",
+        "android_client_info": {
+          "package_name": "com.starnet.game"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_hbwsrmC0BvyJNoPeJ1UwLc1_dGnH_xo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "95586482954",
+    "project_id": "p333app",
+    "storage_bucket": "p333app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95586482954:android:8d926e6c8d478ab1c058f3",
+        "android_client_info": {
+          "package_name": "com.starnet.p333"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_nro37dsbv7dN8lUsN5-MkPGn7wUW1oo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

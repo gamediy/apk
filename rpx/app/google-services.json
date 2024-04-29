@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "952387343542",
+    "project_id": "mjb-rpx",
+    "storage_bucket": "mjb-rpx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952387343542:android:e18204980da8710ab4c217",
+        "android_client_info": {
+          "package_name": "com.starnet.rpx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrdFkbrBJQvMMYZ6x2_XKeXh8OT0bVc-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
